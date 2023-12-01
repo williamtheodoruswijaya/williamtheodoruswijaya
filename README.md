@@ -18,6 +18,3 @@ Looking forward to connecting and sharing experiences with like-minded individua
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&layout=compact&hide_title=true&hide_border=true)
