@@ -4,7 +4,7 @@ Hello! 👋 I'm William, a Computer Science student at Binus University.
 
 ## Connect with Me
 
-Feel free to connect with me on ![LinkedIn](https://id.linkedin.com/in/william-t-00a102282) and ![Gmail](williamwijaya499@gmail.com)
+Feel free to connect with me on [LinkedIn](https://id.linkedin.com/in/william-t-00a102282) and [Gmail](williamwijaya499@gmail.com)
 Looking forward to connecting and sharing experiences with like-minded individuals!
 
 ### Languages and Tools
