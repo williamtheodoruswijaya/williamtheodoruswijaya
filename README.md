@@ -6,6 +6,10 @@
 [![Linkedin: WilliamTheodorus](https://img.shields.io/badge/-WilliamTheodorus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/william-t-00a102282/)
 [![GitHub WilliamTheodorus](https://img.shields.io/github/followers/williamtheodoruswijaya?label=follow&style=social)](https://github.com/williamtheodoruswijaya)
 
+<br>
+ <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+ </br>
+
 
 <h3> 🛠 &nbsp;Languages and Tools</h3><br/>
 
