@@ -7,9 +7,8 @@
 [![GitHub WilliamTheodorus](https://img.shields.io/github/followers/williamtheodoruswijaya?label=follow&style=social)](https://github.com/williamtheodoruswijaya)
 
 <br>
- <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
- </br>
-
+ <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+like+algorithms+and+data+structures">
+</br>
 
 <h3> 🛠 &nbsp;Languages and Tools</h3><br/>
 
