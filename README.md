@@ -20,9 +20,11 @@
 
 <p align="left">Connect with me:</p>
 <p align="left">
-<a href="[https://linkedin.com/in/william-t-00a102282](https://www.linkedin.com/in/william-t-00a102282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamtheodorus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/william-t-00a102282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamtheodorus" height="30" width="40" /></a>
 <br><br>
 </p>
+<br><br>
+<p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="dhiemasady" /></p><br><br>
 _________________________________________________________________________________________________________________________________________________
 <br><br>
 
