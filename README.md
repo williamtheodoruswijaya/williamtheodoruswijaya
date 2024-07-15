@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm William </h1>
 <h3 align="center">Passionate About Machine Learning, Data Science and Analytics, Software Engineering, and Competitive Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiemasady&label=Profile%20views&color=0e75b6&style=flat" alt="dhiemasady" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtheodoruswijaya&label=Profile%20views&color=0e75b6&style=flat" alt="williamtheodoruswijaya" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning such as Convolutional Neural Network, Natural Languange Processing and Time Series**
 
