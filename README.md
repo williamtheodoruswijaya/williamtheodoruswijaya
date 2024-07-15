@@ -19,10 +19,9 @@
 
 <p align="left">Connect with me:</p>
 <p align="left">
-<a href="[https://linkedin.com/in/dhiemasadykw](https://www.linkedin.com/in/william-t-00a102282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamtheodorus" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/william-t-00a102282](https://www.linkedin.com/in/william-t-00a102282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamtheodorus" height="30" width="40" /></a>
 <br><br>
 </p>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=williamtheodoruswijaya&&theme=xcode" alt="williamtheodorus" /></p><br><br>
 _________________________________________________________________________________________________________________________________________________
 <br><br>
 
