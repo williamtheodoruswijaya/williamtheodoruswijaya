@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtheodoruswijaya&label=Profile%20views&color=0e75b6&style=flat" alt="williamtheodoruswijaya" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning such as Convolutional Neural Network, Natural Languange Processing and Time Series**
+- 🌱 I’m currently learning **Deep Learning such as Convolutional Neural Network, Natural Language Processing and Time Series**
 
 - 💬 Ask me about **Python, Neural Network, Tensorflow**
 
 - ⚡ Fun fact **Recently I love to learn about Computer Vision AI**
 
-- 👨‍💻 All of my projects mostly about **Data Processing, Machine Learning**
+- 👨‍💻 All of my projects mostly about **Software Engineering and Data Analysis**
 
 - 🎓 CS Student in **BINUS Univerity**
 <img align="right" alt="Coding" width="400" src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/main/Pixel%20Art%20Gif.gif">
