@@ -27,3 +27,4 @@ ________________________________________________________________________________
 <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&show_icons=true&locale=en&theme=tokyonight" alt="williamtheodoruswijaya" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=williamtheodoruswijaya&theme=tokyonight-duo)](https://git.io/streak-stats)" alt="dhiemasady" /></p>
