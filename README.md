@@ -1,5 +1,5 @@
 <div align = "center">
-  <img height ="300" src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/53def5647bdb82818e498d1d0f5e5c1a9622f03e/gif_for_md.gif">
+  <img height ="200" src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/53def5647bdb82818e498d1d0f5e5c1a9622f03e/gif_for_md.gif">
 </div>
 <h1 align="center">Hi 👋, I'm William </h1>
 <h3 align="center">Passionate About Deep Learning, Data Science and Analytics, and Software Engineering</h3>
