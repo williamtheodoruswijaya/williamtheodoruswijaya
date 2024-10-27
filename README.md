@@ -1,6 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/d6/9e/39/d69e39524bd64983b98e39e750e96881.gif)
+![MasterHead](https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/53def5647bdb82818e498d1d0f5e5c1a9622f03e/gif_for_md.gif)
 <h1 align="center">Hi 👋, I'm William </h1>
-<h3 align="center">Passionate About Machine Learning, Data Science and Analytics, Software Engineering, and Competitive Programming</h3>
+<h3 align="center">Passionate About Deep Learning, Data Science and Analytics, and Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtheodoruswijaya&label=Profile%20views&color=0e75b6&style=flat" alt="williamtheodoruswijaya" /> </p>
 
@@ -24,10 +24,12 @@
 <br><br>
 </p>
 <br><br>
-<p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="dhiemasady" /></p><br><br>
-_________________________________________________________________________________________________________________________________________________
-<br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&show_icons=true&locale=en&theme=tokyonight" alt="williamtheodoruswijaya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=williamtheodoruswijaya&theme=tokyonight-duo" alt="williamtheodoruswijaya" /></p>
-<p><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
+<details>
+  <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="dhiemasady" /></p><br><br>
+  _________________________________________________________________________________________________________________________________________________
+  <br><br>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&show_icons=true&locale=en&theme=tokyonight" alt="williamtheodoruswijaya" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=williamtheodoruswijaya&theme=tokyonight-duo" alt="williamtheodoruswijaya" /></p>
+  <p><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
+</details>
