@@ -20,22 +20,22 @@
 
 ---
 
-### 📈 My GitHub Stats:
+### 📈 Stats:
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=williamtheodoruswijaya&theme=tokyonight-duo" alt="GitHub Streak Stats" />
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamtheodoruswijaya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true" alt="Contributions Graph" />
+      <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true" alt="Contributions Graph" />
     </td>
   </tr>
 </table>
@@ -49,22 +49,7 @@
 
 ---
 
-### 🤝 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/william-t-00a102282/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/admantix/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22297294/will" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow Profile" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🌟 Progress:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/admantix?theme=unicorn&font=Cousine&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/admantix?theme=dark&font=Noto%20Sans%20Newa&ext=heatmap" alt="LeetCode Stats" />
 </p>
