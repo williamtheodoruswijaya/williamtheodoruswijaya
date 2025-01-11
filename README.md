@@ -40,6 +40,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 ### 🏆 Trophies:
@@ -49,7 +53,7 @@
 
 ---
 
-### 🌟 Progress:
+### 🔥 Competitive Programming & LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/admantix?theme=dark&font=Noto%20Sans%20Newa&ext=heatmap" alt="LeetCode Stats" />
 </p>
