@@ -18,6 +18,11 @@
 - 👨‍💻 Most of my projects focus on **Software Engineering and AI Engineering**.  
 - 🎓 I am a Computer Science student at **BINUS University**.  
 
+<details>
+  <br>
+  <summary style="font-family: 'Product Sans', sans-serif; font-size: small;"><b>More Info</b></summary>
+  <div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
+    
 ---
 
 ### 📈 Stats:
@@ -57,3 +62,5 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/admantix?theme=dark&font=Noto%20Sans%20Newa&ext=heatmap" alt="LeetCode Stats" />
 </p>
+  </div>
+</details>
