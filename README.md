@@ -12,10 +12,10 @@
 </p>
 
 ### About Me:
-- 🌱 I’m currently learning **Deep Learning** such as **Convolutional Neural Networks, Natural Language Processing, and Text Mining**.  
+- 🌱 I’m currently learning **Machine Learning** such as **Ensemble Learning, Natural Language Processing, and Time Series**.  
 - 💬 Ask me about **Python, Neural Networks, TensorFlow**.  
 - ⚡ Fun fact: **Recently, I learned about Data Mining**.  
-- 👨‍💻 Most of my projects focus on **Software Engineering and AI Engineering**.  
+- 👨‍💻 Most of my projects focus on **Data Science and Software Engineering**.  
 - 🎓 I am a Computer Science student at **BINUS University**.  
 
 <details>
