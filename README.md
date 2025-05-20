@@ -14,9 +14,9 @@
 ### About Me:
 - 🌱 I’m currently learning **Machine Learning** such as **Ensemble Learning, Natural Language Processing, and Time Series**.  
 - 💬 Ask me about **Python, Neural Networks, TensorFlow**.  
-- ⚡ Fun fact: **Recently, I learned about Data Mining**.  
-- 👨‍💻 Most of my projects focus on **Data Science and Software Engineering**.  
-- 🎓 I am a Computer Science student at **BINUS University**.  
+- ⚡ Fun fact: **Recently, I learned about Design Thinking and Ideation such as Emphaty, Defining Problems, Ideate, Prototyping, and Testing**.  
+- 👨‍💻 Most of my projects focus on **Machine Learning and Software Development**.  
+- 🎓 I am an Undergraduate Computer Science student at **BINUS University**.  
 
 <details>
   <br>
