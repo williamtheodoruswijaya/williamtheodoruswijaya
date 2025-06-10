@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
     </td>
     <td>
       <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true" alt="Contributions Graph" />
