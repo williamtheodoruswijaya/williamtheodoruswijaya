@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/main/gif_for_md.gif" alt="Header Image">
+  <img src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/main/background.gif" alt="Header Image">
 </div>
 
 <h1 align="center">Hi 👋, I'm William</h1>
