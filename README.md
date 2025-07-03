@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtheodoruswijaya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=html" alt="Top Languages" />
     </td>
     <td>
       <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=williamtheodoruswijaya&bg_color=000000&color=00e1ff&line=00e1ff&point=ffffff&area=true&hide_border=true" alt="Contributions Graph" />
@@ -54,13 +54,6 @@
 ### 🏆 Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=williamtheodoruswijaya&theme=onestar&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 Competitive Programming & LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/admantix?theme=dark&font=Noto%20Sans%20Newa&ext=heatmap" alt="LeetCode Stats" />
 </p>
   </div>
 </details>
