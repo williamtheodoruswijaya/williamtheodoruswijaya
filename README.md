@@ -29,8 +29,8 @@
              style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
         </div>
         <h3>Urban Water Quality Monitoring</h3>
-        <a href="https://github.com/username/project1" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
+        <a href="https://drive.google.com/file/d/1DcQ7ss-r3WeN4zpuYMpuGhWxgfY8BK7L/view" target="_blank">
+          <img src="https://img.shields.io/badge/Project-View_Details-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
         </a>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="30"/>
@@ -42,11 +42,11 @@
              style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
       </div>
         <h3>Mood Bridge</h3>
-        <a href="https://github.com/username/project2" target="_blank">
+        <a href="https://github.com/williamtheodoruswijaya/mood-bridge-v2" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=go,redis,aws,postgres,react" height="30"/>
+        <img src="https://skillicons.dev/icons?i=go,redis,aws,postgres,next" height="30"/>
       </td>
       <td width="33%" valign="top">
       <div style="width:100%;height:240px;overflow:hidden;border-radius:12px;">
@@ -55,11 +55,11 @@
              style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
       </div>
         <h3>Predicting e-IPO Performance</h3>
-        <a href="https://github.com/username/project3" target="_blank">
+        <a href="[https://github.com/username/project3](https://github.com/williamtheodoruswijaya/Datathon-UI-2025)" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
         </a>
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=python,sklearn" height="30"/>
+        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" height="30"/>
       </td>
     </tr>
   </table>
