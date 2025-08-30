@@ -55,7 +55,7 @@
              style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
       </div>
         <h3>Predicting e-IPO Performance</h3>
-        <a href="[https://github.com/username/project3](https://github.com/williamtheodoruswijaya/Datathon-UI-2025)" target="_blank">
+        <a href="https://github.com/williamtheodoruswijaya/Datathon-UI-2025" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
         </a>
         <br/><br/>
