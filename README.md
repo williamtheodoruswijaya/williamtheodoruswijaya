@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Passionate About Deep Learning, Data Science and Analytics, and Software Engineering</h3>
+<h3 align="center">Passionate About Data Science and Analytics, and Software Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 
@@ -12,10 +12,10 @@
 </p>
 
 ### About Me:
-- 🌱 I’m currently learning **Machine Learning** such as **Ensemble Learning, Natural Language Processing, and Time Series**.  
-- 💬 Ask me about **Python, Neural Networks, TensorFlow**.  
-- ⚡ Fun fact: **Recently, I learned about Design Thinking and Ideation such as Emphaty, Defining Problems, Ideate, Prototyping, and Testing**.  
-- 👨‍💻 Most of my projects focus on **Machine Learning and Software Development**.  
+- 🌱 I’m currently learning **Deep Learning** such as **Transformer Architecture, Attention Mechanism, and Residual Network**.  
+- 💬 Ask me about **System Design and Exploratory Data Analysis**.  
+- ⚡ Fun fact: **Recently, I learned about Design Pattern and Common Software Architecture**.  
+- 👨‍💻 Most of my projects focus on **AI & Software Development**.  
 - 🎓 I am an Undergraduate Computer Science student at **BINUS University**.
 
 ## 🚀 Projects Highlights:
