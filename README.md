@@ -2,8 +2,10 @@
   <img src="https://github.com/user-attachments/assets/f7de03da-7ade-47ca-9019-c757f3b7d69f" alt="Header Image">
 </div>
 
-<h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Passionate About Data Science and Analytics, and Software Engineering</h3>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://williamtheodorus.vercel.app/" target="_blank" rel="noopener noreferrer">William</a>
+</h1>
+<h3 align="center">I'm a software developer and data scientist.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
 
