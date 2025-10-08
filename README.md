@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/williamtheodoruswijaya/williamtheodoruswijaya/blob/main/background.gif" alt="Header Image">
+  <img src="https://github.com/user-attachments/assets/f7de03da-7ade-47ca-9019-c757f3b7d69f" alt="Header Image">
 </div>
 
 <h1 align="center">Hi 👋, I'm William</h1>
@@ -17,53 +17,6 @@
 - ⚡ Fun fact: **Recently, I learned about Design Pattern and Common Software Architecture**.  
 - 👨‍💻 Most of my projects focus on **AI & Software Development**.  
 - 🎓 I am an Undergraduate Computer Science student at **BINUS University**.
-
-## 🚀 Projects Highlights:
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top">
-        <div style="width:100%;height:240px;overflow:hidden;border-radius:12px;">
-          <img src="https://github.com/user-attachments/assets/69fd36cb-a539-42eb-9c59-3186a9f4e770"
-             alt="Urban Water Quality Monitoring"
-             style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
-        </div>
-        <h3>Urban Water Quality Monitoring</h3>
-        <a href="https://drive.google.com/file/d/1DcQ7ss-r3WeN4zpuYMpuGhWxgfY8BK7L/view" target="_blank">
-          <img src="https://img.shields.io/badge/Project-View_Details-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
-        </a>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="30"/>
-      </td>
-      <td width="33%" valign="top">
-      <div style="width:100%;height:240px;overflow:hidden;border-radius:12px;">
-        <img src="https://github.com/user-attachments/assets/07aea33e-2e38-42db-b48c-00b7de0c2986"
-             alt="Mood Bridge"
-             style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
-      </div>
-        <h3>Mood Bridge</h3>
-        <a href="https://github.com/williamtheodoruswijaya/mood-bridge-v2" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
-        </a>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=go,redis,aws,postgres,next" height="30"/>
-      </td>
-      <td width="33%" valign="top">
-      <div style="width:100%;height:240px;overflow:hidden;border-radius:12px;">
-        <img src="https://github.com/user-attachments/assets/4e6d0b75-189c-4280-9d56-19085779d2da"
-             alt="Predicting e-IPO Stock Performance using Tabular Transformers"
-             style="width:100%;height:100%;object-fit:cover;display:block;border-radius:12px;">
-      </div>
-        <h3>Predicting e-IPO Performance</h3>
-        <a href="https://github.com/williamtheodoruswijaya/Datathon-UI-2025" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github&style=for-the-badge" />
-        </a>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" height="30"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <details>
   <br>
