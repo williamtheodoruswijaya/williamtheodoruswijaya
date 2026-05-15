@@ -14,12 +14,7 @@
 </p>
 
 ### About Me:
-- 🌱 I’m currently learning **Deep Learning** such as **Transformer Architecture, Attention Mechanism, and Residual Network**.  
-- 💬 Ask me about **System Design and Exploratory Data Analysis**.  
-- ⚡ Fun fact: **Recently, I learned about Design Pattern and Common Software Architecture**.  
-- 👨‍💻 Most of my projects focus on **AI & Software Development**.  
-- 🎓 I am an Undergraduate Computer Science student at **BINUS University**.
-
+- Currently working (More active on Gitlab)
 <details>
   <br>
   <summary style="font-family: 'Product Sans', sans-serif; font-size: small;"><b>More Info</b></summary>
